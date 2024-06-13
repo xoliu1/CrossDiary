@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cross Diary</string>
+    <string name="NoNotesContent2">天空之空，沉淀无形之形</string>
+    <string name="NoNotesContent1">无条目</string>
+
+        <string name="sample_dialogue">你不要对我这么好，你对我这么好、要是有一天你对我不好了，我会很伤心。</string>
+        <string name="sample_english">Don’t be so nice to me. You are so nice to me. If one day you are not nice to me, I will be very sad.</string>
+        <string name="sample_source">夏日的么么茶</string>
+        <string name="sample_type">华语</string>
+    <string name="submit">提交\n</string>
+    <string name="hint_enter_your_note_here">描线一笔接一笔，白色的素描本上渐渐萌生黑意。</string>
+    <!-- 其他字符串资源 -->
+
+
+</resources>
